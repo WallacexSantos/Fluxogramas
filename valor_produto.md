@@ -6,6 +6,7 @@ Conversão para código em Portugol
 
 programa {
   funcao inicio() {
+  //icms 18 porcento, taxa de importacao 60 porcento
     real valor_dolar,dolar
     escreva ("digite o valor do produto em dolares ")
     leia (valor_dolar)
